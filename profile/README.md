@@ -30,3 +30,6 @@ Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-
 
 [https://github.com/omnilaboratory/OBAndroid/releases](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-testnet/OBAndroid_testnet_0.1.0_beta.10_release.apk)
 
+#### How to use OBWallet: A step by step guide
+
+[https://medium.com/@h823654649/54f1c204ecd6](https://medium.com/@h823654649/54f1c204ecd6)
