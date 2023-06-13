@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+ <!--
 
 **Here are some ideas to get you started:**
 
@@ -11,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Download OBWallet for Android 
+## Download OBWallet for Android 👋
 The self-custodial OmniBOLT Lightning wallet that provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments. 
 
 The latest stable release of OBWallet for android is V0.1.0:
