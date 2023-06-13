@@ -32,4 +32,4 @@ Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-
 
 #### How to use OBWallet: A step by step guide
 
-[https://medium.com/@h823654649/54f1c204ecd6](https://medium.com/@h823654649/54f1c204ecd6)
+[https://medium.com/@h823654649/how-to-use-obwallet-a-step-by-step-guide-54f1c204ecd6](https://medium.com/@h823654649/how-to-use-obwallet-a-step-by-step-guide-54f1c204ecd6)
