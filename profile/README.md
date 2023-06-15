@@ -16,19 +16,19 @@ The latest stable release of OBWallet for android is V0.1.0:
 
 #### mainnet
 
-Release note: [https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.0-mainnet](https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.0-mainnet)
+Release note:  [https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.1-mainnet](https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.1-mainnet)  
 
-Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-mainnet/OBAndroid_mainnet_v0.1.0.apk](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-mainnet/OBAndroid_mainnet_v0.1.0.apk)
+Download:  [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.1-mainnet/OBAndroid_mainnet_v0.1.1.apk](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.1-mainnet/OBAndroid_mainnet_v0.1.1.apk)
 
 #### testnet
 
-Release note: [https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.0-testnet](https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.0-testnet)
+Release note: [https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.1-testnet](https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.1-testnet)
 
-Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-testnet/OBAndroid_testnet_0.1.0_beta.10_release.apk](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-testnet/OBAndroid_testnet_0.1.0_beta.10_release.apk)
+Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.1-testnet/OBAndroid_testnet_v0.1.1.apk](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.1-testnet/OBAndroid_testnet_v0.1.1.apk)
 
 #### more releases
 
-[https://github.com/omnilaboratory/OBAndroid/releases](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.0-testnet/OBAndroid_testnet_0.1.0_beta.10_release.apk)
+[https://github.com/omnilaboratory/OBAndroid/releases](https://github.com/omnilaboratory/OBAndroid/releases)
 
 #### How to use OBWallet: A step by step guide
 
