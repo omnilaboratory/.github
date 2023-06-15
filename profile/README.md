@@ -12,7 +12,7 @@
 ## Download OBWallet for Android 👋
 The self-custodial OmniBOLT Lightning wallet that provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments. 
 
-The latest stable release of OBWallet for android is V0.1.0:
+The latest stable release of OBWallet is V0.1.1:
 
 #### mainnet
 
