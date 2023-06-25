@@ -14,19 +14,19 @@ The self-custodial OmniBOLT Lightning wallet that provides a platform for simple
 
 The latest stable release of OBWallet is V0.1.3:
 
-#### mainnet
+#### Mainnet
 
 Release note: [https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.3-mainnet](https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.3-mainnet)
 
 Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.3-mainnet/OBAndroid_mainnet_v0.1.3.apk](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.3-mainnet/OBAndroid_mainnet_v0.1.3.apk)
 
-#### testnet
+#### Testnet
 
 Release note: [https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.3-testnet](https://github.com/omnilaboratory/OBAndroid/releases/tag/v0.1.3-testnet)
 
 Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.3-testnet/OBAndroid_testnet_v0.1.3.apk](https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.3-testnet/OBAndroid_testnet_v0.1.3.apk)
 
-#### more releases
+#### More releases
 
 [https://github.com/omnilaboratory/OBAndroid/releases](https://github.com/omnilaboratory/OBAndroid/releases)
 
