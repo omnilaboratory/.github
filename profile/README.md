@@ -33,3 +33,14 @@ Download: [https://github.com/omnilaboratory/OBAndroid/releases/download/v0.1.3-
 #### How to use OBWallet: A step by step guide
 
 [https://medium.com/@h823654649/how-to-use-obwallet-a-step-by-step-guide-54f1c204ecd6](https://medium.com/@h823654649/how-to-use-obwallet-a-step-by-step-guide-54f1c204ecd6)
+
+#### How to get USDT on Omnilayer network
+
+The list of exchanges from where you can withdraw USDT to Omnilayer network addresses (OBwallet addresses):
+* https://www.bitfinex.com/
+* https://www.gate.io/
+
+
+
+
+
