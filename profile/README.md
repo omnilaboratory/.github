@@ -40,7 +40,9 @@ The list of exchanges from where you can withdraw USDT to Omnilayer network (OBw
 * https://www.bitfinex.com/
 * https://www.gate.io/
 
+#### How to issue token on Omnilayer network
 
+[https://github.com/omnilaboratory/obd#mint-tokens](https://github.com/omnilaboratory/obd#mint-tokens)
 
 
 
